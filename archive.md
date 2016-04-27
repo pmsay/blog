@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive
+title: 汇总
 permalink: /Archives/
 ---
 <section id="archive">

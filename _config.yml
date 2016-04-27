@@ -8,7 +8,7 @@ theme:
   # Meta
   title: 渊兮的博客
   #avatar: avatar.png
-  hometitle: Home #display on navigation menu.
+  hometitle: 首页 #display on navigation menu.
   yoursitetitle: 渊兮
   gravatar: # Email MD5 hash
   description: "used by search engines" # used by search engines
