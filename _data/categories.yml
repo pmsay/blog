@@ -1,8 +1,4 @@
-- slug: ios
-  name: iOS
-#  color: '#3498db'
-  
-- slug: design
+  - slug: design
   name: Design
 #  color: '#1abc9c'
 
