@@ -1,5 +1,5 @@
-- slug: talks
-  name: Talks
+- slug: ios
+  name: iOS
 #  color: '#3498db'
   
 - slug: design
@@ -11,3 +11,6 @@
 
 - slug: experience
   name: Experience
+
+- slug: talks
+  name: Talks
