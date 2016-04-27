@@ -20,7 +20,7 @@ theme:
   header_text_feature_image: img/sample_feature_img.png
   place_holder_image: img/sample_feature_img.png
   footer_text: >
-   <a href="https://yoursite.com">渊兮的博客</a> 
+   <a href="https://pmsay.github.io/blog">渊兮</a> 
 
   # Icons
   rss: false
@@ -66,7 +66,7 @@ theme:
   post_navigation: false
 
 # PAGINATION
-enforce_ssl: "fengzhichu.com"
+enforce_ssl: "https://pmsay.github.io/blog"
 paginate: 5
 paginate_path: "blog/page:num"
 permalink: blog/:title/ 
